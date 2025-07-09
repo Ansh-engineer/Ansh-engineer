@@ -68,10 +68,7 @@ A command-line Java application for managing doctors, patients, and appointments
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ansh-engineer)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ansh_Chauhan9/)  
-📧 Email: *[add-your-email-here-if-you-want]*
-
+📧 Email: chauhanansh44@gmail.com
 ---
 
-## ⚡ Fun Fact
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
